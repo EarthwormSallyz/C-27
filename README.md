@@ -1,2 +1,1 @@
-# C-27
-e
+# Project Template 27
